@@ -6,3 +6,4 @@
 | Insertion sort    | O(n2)                 | O(1)                        | +             |
 | Bubble sort       | O(n2)                 | O(1)                        | +             |
 | Merge sort        | O(n log n)            | O(n)                        | +             |  
+| Quick sort        | O(n log n)            | O(n)                        | -             |
